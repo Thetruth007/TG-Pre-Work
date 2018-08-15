@@ -50,3 +50,6 @@ const entree = 'Enchiladas';
 const price = 12;
 console.log(entree);
 console.log(price);
+
+let changeMe = false;
+console.log(changeMe);
