@@ -151,3 +151,5 @@ const surgeonDurant = new Surgeon('Durant', 'Orthopedics');
 //Iv'e lost some of my code so this is learn JS for now.
 
 var strength = '50,000 pounds';
+
+console.log('How much stuff can a variable hold? ', strength);
