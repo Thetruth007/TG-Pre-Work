@@ -179,3 +179,5 @@ var favoriteAnimal = 'favorite animal';
 var favoriteAnimal = 'favorite animal';
 favoriteAnimal = rabbit;
 console.log 'My favorite animal' + favoriteAnimal;
+
+var harryPotterFan = false;
