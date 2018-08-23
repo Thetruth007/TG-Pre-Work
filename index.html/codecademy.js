@@ -187,3 +187,5 @@ if (harryPotterFan) {
 } else {
   console.log('I lead a muggle\'s life');
 }
+
+var hungerLevel = 10;
