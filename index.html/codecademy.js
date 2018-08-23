@@ -157,3 +157,5 @@ console.log('How much stuff can a variable hold? ', strength);
 var age = 31;
 
 console.log(age);
+
+var hasPet = true;
