@@ -38,3 +38,6 @@ h1 {
 .cursive {
   font-family: cursive;
 }
+
+.capitalize {
+  text-transform: capitalize;
