@@ -171,3 +171,5 @@ console.log('How much stuff can a variable hold? ', strength);
 var morningAlarm = '6:30AM';
 
 morningAlarm = '8:30AM';
+
+console.log('morning alarm is set to:', morningAlarm)
