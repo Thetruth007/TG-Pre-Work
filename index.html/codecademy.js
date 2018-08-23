@@ -173,3 +173,5 @@ var morningAlarm = '6:30AM';
 morningAlarm = '8:30AM';
 
 console.log('morning alarm is set to:', morningAlarm)
+
+var favoriteAnimal = 'favorite animal';
