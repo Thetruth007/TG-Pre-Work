@@ -169,3 +169,5 @@ console.log(age);
 console.log('How much stuff can a variable hold? ', strength);
 
 var morningAlarm = '6:30AM';
+
+morningAlarm = '8:30AM';
