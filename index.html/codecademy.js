@@ -195,3 +195,5 @@ if (hungerLevel > 7) {
 } else {
   console.log('Let\'s eat later');
 }
+
+var moonPhase = 'full';
