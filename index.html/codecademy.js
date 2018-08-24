@@ -636,3 +636,7 @@ class Nurse extends HospitalEmployee {
     this._certifications.push(newCertification);
   }
 }
+
+static generatePassword() {
+    return Math.floor(Math.random() * 10000);
+  }
