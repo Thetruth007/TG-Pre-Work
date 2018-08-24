@@ -217,3 +217,9 @@ const takeOrder = () =>{
   console.log('Order: pizza')
 }
 takeOrder();
+
+const takeOrder = (topping) => {
+  console.log("Order: pizza topped with" +  topping);
+};
+
+takeOrder("mushrooms");
