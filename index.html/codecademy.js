@@ -533,3 +533,8 @@ console.log(person.sayHello());
 let person = {
   _name: 'shawn',
   _age: 50,
+
+  let person = {
+  _name: 'shawn',
+  _age: 'Thirty-nine',
+  
