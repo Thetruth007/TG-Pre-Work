@@ -235,3 +235,8 @@ const takeOrder = (topping, crustType) => {
 takeOrder('mushroom', 'thin crust');
 takeOrder('spinach', 'whole wheat');
 takeOrder('pepperoni', 'brooklyn style');
+
+const takeOrder = (topping, crustType) => {
+  orderCount = orderCount + 1;
+  console.log('Order: ' + crustType + ' pizza topped with ' + topping);
+};
