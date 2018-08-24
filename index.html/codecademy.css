@@ -182,3 +182,13 @@ h2 {
   letter-spacing: 2px;
   padding: 20px;
 }
+
+.share a {
+  background: red;
+  border: 1px solid red;
+  border-radius: 3px;
+  color: white;
+  display: inline-block;
+  text-decoration: none;
+  padding: 14px;
+}
