@@ -344,3 +344,5 @@ starCount();
 let newYearsResolutions = [
   'kobe', 'Learn a new language', 'MJ'
 ];
+
+console.log(newYearsResolutions);
