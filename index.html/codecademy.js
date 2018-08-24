@@ -271,3 +271,5 @@ const getTotal = (itemCount) => {
 console.log(getSubTotal(orderCount));
 
 console.log(getTotal(orderCount))
+
+function isGreaterThan(numberOne, numberTwo)
