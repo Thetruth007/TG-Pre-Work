@@ -646,3 +646,9 @@ static generatePassword() {
 const meat = "Pancetta"; // ES6 syntax
 
 let sauce = "Eggs and cheese"; // ES6 syntax
+
+// Set the variable below to a number
+let esFivePercentageSupport = 95.47;
+
+// Set the variable below to a number
+let esSixTemplateLiterals = 87.61;
