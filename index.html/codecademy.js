@@ -672,3 +672,7 @@ var carbonara = pasta + meat + sauce;
     "babel-preset-env": "^1.7.0"
   }
 } */
+
+let Airplane = {};
+Airplane.myAirplane = "StarJet";
+module.exports = Airplane;
