@@ -555,3 +555,6 @@ h1 {
 grid-template-columns: 25% 25% 2fr 1fr;
 
 grid-template-rows: 200px 200px;
+
+grid-row-gap: 10px;
+grid-column-gap: 15px;
