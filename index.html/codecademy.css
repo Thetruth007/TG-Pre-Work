@@ -389,3 +389,9 @@ li {
   position: relative;
   top: 50px;
 }
+
+.answer {
+  border: 1px solid #466995;
+  margin: 20px;
+  display: inline-block;
+}
