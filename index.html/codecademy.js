@@ -335,3 +335,5 @@ visibleLightWaves();
 const starCount = () => {
   let i = 1;
   console.log(i);
+  for (i = 0; i < 12; i++) {
+    console.log(i);
