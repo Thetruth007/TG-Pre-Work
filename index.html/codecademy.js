@@ -259,4 +259,7 @@ takeOrder('pepperoni', 'brooklyn style');
 console.log(getSubTotal(orderCount));
 
 let orderCount = 0;
-  
+
+const getTax = (itemCount) => {
+return getSubTotal(itemCount) * 0.06
+}
