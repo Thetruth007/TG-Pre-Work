@@ -320,3 +320,9 @@ body {
   position: relative;
   top: 40px;
 }
+
+.question {
+  text-align: center;
+  position: relative;
+  top: 40px;
+}
