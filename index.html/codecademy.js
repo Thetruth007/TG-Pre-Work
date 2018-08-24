@@ -349,3 +349,5 @@ console.log(newYearsResolutions);
 
 let listItem = 'kobe';
 console.log(listItem[0]);
+
+console.log(newYearsResolutions[3]);
