@@ -513,3 +513,8 @@ sayHello() {
    return(this.name)
 
    console.log(friend.sayHello())
+
+   sayGoodbye() {
+       return 'Goodbye!';
+     }
+     
