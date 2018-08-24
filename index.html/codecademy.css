@@ -443,3 +443,7 @@ h1 {
 .foreground {
   background-color: hsla(325, 50%, 50%, 0.6);
 }
+
+body {
+  background-color: rgba(0, 255, 0, 0.1);
+}
