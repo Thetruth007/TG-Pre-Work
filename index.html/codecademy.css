@@ -467,3 +467,14 @@ h2 {
   word-spacing: 0.05em;
   letter-spacing: 0.02em;
 }
+
+.banner p {
+  border-top: 1px solid #fff;
+  border-bottom: 1px solid #fff;
+  padding: 10px;
+  color: #ffffff;
+  font-weight: bold;
+  line-height: 1.4;
+  font-family: "Glegoo";
+  font-size: 20px;
+}
