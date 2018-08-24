@@ -511,3 +511,5 @@ console.log(person.hobbies);
 
 sayHello() {
    return(this.name)
+
+   console.log(friend.sayHello())
