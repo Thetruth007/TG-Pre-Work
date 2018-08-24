@@ -301,3 +301,5 @@ console.log('The volume of a sphere is ' + volumeOfSphere(10) + ' cubic centimet
 
 const satellite = 'The Moon';
 const galaxy = 'The Milky Way';
+
+let stars = 'North Star';
