@@ -513,3 +513,10 @@ h2 {
   word-spacing: 0.05em;
   letter-spacing: 0.02em;
 }
+
+h1 {
+  color: white;
+  font-size: 28px;
+  font-family: Georgia;
+  text-transform: uppercase;
+}
