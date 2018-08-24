@@ -267,3 +267,7 @@ return getSubTotal(itemCount) * 0.06
 const getTotal = (itemCount) => {
   return getTax(itemCount) + getSubTotal(itemCount)
 }
+
+console.log(getSubTotal(orderCount));
+
+console.log(getTotal(orderCount))
