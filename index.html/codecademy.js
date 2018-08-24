@@ -212,3 +212,8 @@ break;
   console.log('Invalid moon phase');
   break;
 }
+
+const takeOrder = () =>{
+  console.log('Order: pizza')
+}
+takeOrder();
