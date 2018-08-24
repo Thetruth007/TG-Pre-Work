@@ -521,3 +521,11 @@ sayHello() {
      sayHello() {
    return(this.name)
  },
+
+ let friend = {
+  name: "John"
+};
+
+friend.sayHello = person.sayHello;
+
+console.log(person.sayHello());
