@@ -504,3 +504,7 @@ if (day === 'Saturday' || day === 'Sunday' ) {
 
 console.log(person[alarm]);
 console.log(friend.sayHello())
+
+person.hobbies = ['Basketball', 'Coaching'];
+person.hobbies = ['Basketball'];
+console.log(person.hobbies);
