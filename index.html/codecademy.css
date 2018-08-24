@@ -625,3 +625,13 @@ grid-column-gap: 15px;
 .a {
  grid-row: 5 / 7;
 }
+
+.a {
+  grid-row: 5 / 7;
+  grid-column: 1 / span 2;
+}
+
+.b {
+  grid-column: 2 / span 6;
+  grid-row: 2 / span 3;
+}
