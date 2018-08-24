@@ -361,3 +361,5 @@ console.log(newYearsResolutions.length);
 newYearsResolutions.push('Drake', 'Eminem');
 
 newYearsResolutions.pop();
+
+groceryList.shift();
