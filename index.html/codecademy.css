@@ -361,3 +361,9 @@ header {
   z-index: 10;
 }
 <h1><strong>Welcome</strong> to our survey!</h1>
+
+footer {
+  background-color: #DBE9EE;
+  text-align: center;
+  height: 100px;
+}
