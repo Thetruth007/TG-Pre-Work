@@ -566,3 +566,20 @@ let person = {
 
 const surgeonCurry = new Surgeon('Curry', 'Cardiovascular');
 const surgeonDurant = new Surgeon('Durant', 'Orthopedics');
+
+get name() {
+   return this._name;
+ }
+
+ get department() {
+   return this._department;
+ }
+
+ get remainingVacationDays() {
+   return this._remainingVacationDays;
+ }
+
+ takeVacationDays(daysOff) {
+   this._remainingVacationDays -= daysOff;
+ }
+}
