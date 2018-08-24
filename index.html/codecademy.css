@@ -204,3 +204,12 @@ h2 {
   padding-left: 30px;
   padding-right: 30px;
 }
+
+h2 {
+  border: 1px dotted red;
+  color: red;
+  font-size: 14px;
+  line-height: 48px;
+  text-align: center;
+  padding: 20px 30px;
+}
