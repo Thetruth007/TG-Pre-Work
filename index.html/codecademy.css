@@ -342,3 +342,13 @@ header {
   width: 100%;
   z-index: 10;
 }
+
+.welcome {
+  background-color: #DBE9EE;
+  box-sizing: border-box;
+  padding: 40px;
+  text-align: center;
+  width: 100%;
+  position: relative;
+  top: 50px;
+}
