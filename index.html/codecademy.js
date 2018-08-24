@@ -377,3 +377,5 @@ console.log(groceryList);
 
 console.log(groceryList.slice(1, 4));
 console.log(groceryList);
+
+let condiments = ['Ketchup', 'Mustard', 'Soy Sauce', 'Sriracha'];
