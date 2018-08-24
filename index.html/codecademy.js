@@ -508,3 +508,6 @@ console.log(friend.sayHello())
 person.hobbies = ['Basketball', 'Coaching'];
 person.hobbies = ['Basketball'];
 console.log(person.hobbies);
+
+sayHello() {
+   return(this.name)
