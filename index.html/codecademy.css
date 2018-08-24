@@ -220,3 +220,11 @@ p {
   line-height: 48px;
   padding: 10px 20px;
 }
+
+p {
+  color: grey;
+  font-size: 16px;
+  line-height: 48px;
+  padding: 10px 20px;
+  margin-top: 60px;
+}
