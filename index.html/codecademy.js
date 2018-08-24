@@ -517,4 +517,7 @@ sayHello() {
    sayGoodbye() {
        return 'Goodbye!';
      }
-     
+
+     sayHello() {
+   return(this.name)
+ },
