@@ -144,3 +144,10 @@ background-color: white;
 .pull-quote {
   width: 350px;
 }
+
+#banner .content h1 {
+  position: relative;
+  top: 50px;
+  margin: 0 auto;
+  width: 400px;
+}
