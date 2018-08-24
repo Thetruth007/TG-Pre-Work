@@ -428,3 +428,15 @@ let fruits = ['mango', 'papaya', 'pineapple', 'apple'];
 // Iterate over fruits below
 fruits.forEach(fruitItem =>
   console.log('I want to eat' + fruits));
+
+  // Create the secretMessage array below
+
+let secretMessage = animals.map(animal => animal.charAt(0));
+
+console.log(secretMessage.join(''));
+
+let bigNumbers = [100, 200, 300, 400, 500];
+
+// Create the smallNumbers array below
+
+let smallNumbers = bigNumbers.map(num => num/100);
