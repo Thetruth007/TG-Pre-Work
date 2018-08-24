@@ -240,3 +240,5 @@ const takeOrder = (topping, crustType) => {
   orderCount = orderCount + 1;
   console.log('Order: ' + crustType + ' pizza topped with ' + topping);
 };
+
+let getSubTotal = (itemCount) =>
