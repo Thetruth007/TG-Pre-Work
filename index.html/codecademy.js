@@ -652,3 +652,6 @@ let esFivePercentageSupport = 95.47;
 
 // Set the variable below to a number
 let esSixTemplateLiterals = 87.61;
+
+var carbonara = `You can make carbonara with ${pasta}, ${meat}, and a sauce made with ${sauce}.`;
+var carbonara = pasta + meat + sauce;
