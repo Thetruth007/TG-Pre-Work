@@ -297,3 +297,10 @@ p {
   height: 1000px;
   overflow: scroll;
 }
+
+body {
+  background-color: #FFF;
+  font-family: 'Raleway', sans-serif;
+  margin: 0;
+  padding: 0;
+}
