@@ -351,3 +351,7 @@ let listItem = 'kobe';
 console.log(listItem[0]);
 
 console.log(newYearsResolutions[3]);
+
+let newYearsResolutions = [
+  'kobe', 'Learn a new languages', 'MJ'
+];
