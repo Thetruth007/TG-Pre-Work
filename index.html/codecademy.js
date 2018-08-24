@@ -480,3 +480,9 @@ let smallerNums = nums.map(num => num - 5);
 
 // Choose a method that will return a boolean value
 nums.some(num => num < 0);
+
+let person = {
+  name: 'Romero',
+  age: 31,
+  weekendAlarm: 'No alarms needed',
+  weekAlarm: 'Alarm set to 7AM',
