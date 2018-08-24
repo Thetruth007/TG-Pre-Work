@@ -616,3 +616,8 @@ grid-column-gap: 15px;
   grid-template: repeat(3, 1fr) / 3fr 50% 1fr;
   grid-gap: 20px 5px;
 }
+
+.a {
+  grid-row-start: 5;
+  grid-row-end: 7;
+}
