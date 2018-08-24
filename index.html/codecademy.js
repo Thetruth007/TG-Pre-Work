@@ -242,3 +242,21 @@ const takeOrder = (topping, crustType) => {
 };
 
 let getSubTotal = (itemCount) =>
+
+const takeOrder = (topping, crustType) => {
+  orderCount = orderCount + 1;
+  console.log('Order: ' + crustType + ' pizza topped with ' + topping);
+};
+
+let getSubTotal = (itemCount) => {
+  return(itemCount * 7.5)
+};
+
+takeOrder('mushroom', 'thin crust');
+takeOrder('spinach', 'whole wheat');
+takeOrder('pepperoni', 'brooklyn style');
+
+console.log(getSubTotal(orderCount));
+
+let orderCount = 0;
+  
