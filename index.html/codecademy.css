@@ -308,3 +308,9 @@ body {
 .donate  {
   visibility: hidden;
 }
+
+.question {
+  text-align: center;
+  position: static;
+  top: 40px;
+}
