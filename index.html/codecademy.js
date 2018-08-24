@@ -529,3 +529,7 @@ sayHello() {
 friend.sayHello = person.sayHello;
 
 console.log(person.sayHello());
+
+let person = {
+  _name: 'shawn',
+  _age: 50,
