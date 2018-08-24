@@ -439,3 +439,7 @@ h1 {
 .midground {
   background-color: hsla(225, 100%, 25%, 0.4);
 }
+
+.foreground {
+  background-color: hsla(325, 50%, 50%, 0.6);
+}
