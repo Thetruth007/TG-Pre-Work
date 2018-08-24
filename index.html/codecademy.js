@@ -492,3 +492,15 @@ console.log(person['age']);
 
 console.log(person['name']);
 console.log(person['age']);
+
+let day = 'Tuesday';
+let alarm;
+
+if (day === 'Saturday' || day === 'Sunday' ) {
+  alarm = 'weekendAlarm';
+} else {
+  alarm = 'weekAlarm';
+}
+
+console.log(person[alarm]);
+console.log(friend.sayHello())
