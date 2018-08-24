@@ -556,3 +556,10 @@ let person = {
     console.log(`${this._name} is ${this._age} years old.`);
     return this._age;
   }
+
+  class Surgeon {
+  constructor(name, department) {
+    this.name = name;
+    this.department = department;
+  }
+}
