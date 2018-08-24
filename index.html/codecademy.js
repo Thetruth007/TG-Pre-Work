@@ -365,3 +365,5 @@ newYearsResolutions.pop();
 groceryList.shift();
 
 groceryList.unshift('popcorn');
+
+console.log(groceryList.slice(1, 4));
