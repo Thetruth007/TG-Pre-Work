@@ -281,3 +281,5 @@ function isGreaterThan(numberOne, numberTwo) {
     return false;
   }
 }
+
+isGreaterThan(3, 4)
