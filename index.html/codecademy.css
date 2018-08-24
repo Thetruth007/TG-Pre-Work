@@ -527,3 +527,7 @@ h1 {
   margin-top: 77px;
   text-align: center;
 }
+
+.garamond .sample .text {
+  font-family: Garamond, serif;
+}
