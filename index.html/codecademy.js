@@ -440,3 +440,9 @@ let bigNumbers = [100, 200, 300, 400, 500];
 // Create the smallNumbers array below
 
 let smallNumbers = bigNumbers.map(num => num/100);
+
+let smallNumbers = randomNumbers.filter(number => number.length < 250);
+
+let favoriteWords = ['nostalgia', 'hyperbole', 'fervent', 'esoteric', 'serene'];
+
+let longFavoriteWords = favoriteWords.filter(word => word.length > 7);
