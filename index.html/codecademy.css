@@ -520,3 +520,10 @@ h1 {
   font-family: Georgia;
   text-transform: uppercase;
 }
+
+.banner {
+  background-color: #4D00FF;
+  padding: 100px 0;
+  margin-top: 77px;
+  text-align: center;
+}
