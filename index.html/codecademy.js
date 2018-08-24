@@ -355,3 +355,5 @@ console.log(newYearsResolutions[3]);
 let newYearsResolutions = [
   'kobe', 'Learn a new languages', 'MJ'
 ];
+
+console.log(newYearsResolutions.length);
