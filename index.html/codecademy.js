@@ -640,3 +640,9 @@ class Nurse extends HospitalEmployee {
 static generatePassword() {
     return Math.floor(Math.random() * 10000);
   }
+
+  var pasta = "Spaghetti"; // ES5 syntax
+
+const meat = "Pancetta"; // ES6 syntax
+
+let sauce = "Eggs and cheese"; // ES6 syntax
