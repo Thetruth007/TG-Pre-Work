@@ -332,4 +332,5 @@ const visibleLightWaves = () => {
 
 visibleLightWaves();
 
-const starCount = () =>
+const starCount = () => {
+  let i = 1;
