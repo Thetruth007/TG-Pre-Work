@@ -249,3 +249,8 @@ h2 {
   text-align: center;
   margin: 30px 20px;
 }
+
+.pull-quote {
+  width: 350px;
+  margin: 0 auto;
+}
